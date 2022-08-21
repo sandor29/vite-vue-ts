@@ -79,7 +79,7 @@ goto:start
 
 start npm run deploy
 
-start https://sandor29.github.io/
+:: start https://sandor29.github.io/
 
 goto:start
 :: ----------------------------
