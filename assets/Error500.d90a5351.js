@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as s,a as e}from"./index.e8656811.js";const o=""+new URL("500error.939b3823.svg",import.meta.url).href,c={},a={class:"flex items-center justify-center h-full"},n=e("a",{href:"#",target:"_blank"},[e("img",{src:o,class:"h-96 w-96",alt:"StorySet"})],-1),_=[n];function i(l,f){return r(),s("div",a,_)}const d=t(c,[["render",i]]);export{d as default};
