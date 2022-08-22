@@ -1,1 +1,0 @@
-import{_ as t,o as s,c,a as e}from"./index.9123e424.js";const o=""+new URL("design.8d0fe569.svg",import.meta.url).href,r={},a={class:"flex items-center justify-center h-full"},n=e("a",{href:"#",target:"_blank"},[e("img",{src:o,class:"h-96 w-96",alt:"StorySet"})],-1),_=[n];function i(f,l){return s(),c("div",a,_)}const m=t(r,[["render",i]]);export{m as default};

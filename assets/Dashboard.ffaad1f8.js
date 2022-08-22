@@ -1,0 +1,1 @@
+import{_ as t,o as s,c,a as e}from"./index.2dfc3773.js";const o=""+new URL("office.f12c418f.svg",import.meta.url).href,r={},a={class:"flex items-center justify-center h-full"},n=e("a",{href:"#",target:"_blank"},[e("img",{src:o,class:"h-96 w-96",alt:"StorySet"})],-1),_=[n];function f(i,l){return s(),c("div",a,_)}const h=t(r,[["render",f]]);export{h as default};
